@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\Labs\\3 course 1 term\\ІПЗ\\Git\\Part4\\repos_1\\lab6.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
